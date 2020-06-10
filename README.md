@@ -18,3 +18,4 @@ The following libraries are used for the implementation of the project:
 6. Matplotlib
 7. Pickle
 8. h5py
+9. Scikit-Learn
