@@ -1,4 +1,5 @@
 # iSpam : Spam Message :envelope: Detector :mag:
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ## About Project
 Messages either received in the form of **Emails or SMS**, sometimes contain useful information or contain some information which is irrelevant, such as Advertisements, or information that may be used to dupe the recipient.<br>
 Messages containing useful information are known as **HAM Messages**, whereas messages containing irrelevant information are known as **SPAM Messages**.<br>
